@@ -27,8 +27,8 @@ By cleaning, preprocessing, and visualizing the data, this notebook serves as bo
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/ipl-cricket-analysis.git
-   cd ipl-cricket-analysis
+   git clone https://github.com/Datta-6699/IPL-Cricket-Match-Analysis.git
+   cd IPL-Cricket-Match-Analysis
    ```
 
 2. **Create a virtual environment (optional but recommended):**
